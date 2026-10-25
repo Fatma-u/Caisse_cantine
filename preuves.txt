@@ -1,3 +1,13 @@
 Lors de l'exécution pour la question 3,avec montant=5000;code_plat=1;quantité=3.
 Nous obtenons:
 La plat d'attiéké-poisson coûte 1500FCFA
+
+
+Test1 
+Avec les données code_plat=1;montant=5000;quantité=3,nous obtenons:
+Le plat d'attiéké-poisson coûte 1500FCFA
+Bonjour!Awa,pour la portion 1 vous devez payer 1500
+Bonjour!Awa,pour la portion 2 vous devez payer 1500
+Bonjour!Awa,pour la portion 3 vous devez payer 1500
+le total à payer est 4500FCFA
+Votre monnaie est 500FCFA

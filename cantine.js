@@ -25,12 +25,23 @@ if (code_plat>=1 && code_plat<=3 && quantt>0){
         let montantT=prixUnitaire*quantite;
         return montantT;
     }
-    let Mm=calculerTotal(quantt,prix_uni);}
+    let Mm=calculerTotal(quantt,prix_uni);
+    for(let i=1;i<=quantt;i++){
+        console.log(`Bonjour!${client},pour la portion ${i} vous devez payer ${prix_uni}`);
+    }
+    console.log(`le total à payer est ${Mm}FCFA`)
 
+    if(montant>Mm){
+            let rest=montant-Mm;
+            console.log(`Votre monnaie est ${rest}FCFA`);
+        }
+    else{
+            let mt_manquant=(prix_uni*quantt)-montant;
+            console.log(`Le montant est manquant de ${mt_manquant}FCFA`);
 
+        }
 
-
-
+}
 else{
     console.log(`Choississez un code est valide entre 1 et 3 et une quantité strictement positive`)
 }
