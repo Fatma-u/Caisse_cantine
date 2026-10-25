@@ -11,3 +11,11 @@ Bonjour!Awa,pour la portion 2 vous devez payer 1500
 Bonjour!Awa,pour la portion 3 vous devez payer 1500
 le total à payer est 4500FCFA
 Votre monnaie est 500FCFA
+
+Test2
+Avec les données code_plat=2;montant=3000;quantité=2,nous avons:
+Le plat de Riz-Poulet coûte 2000FCFA
+Bonjour!Awa,pour la portion 1 vous devez payer 2000
+Bonjour!Awa,pour la portion 2 vous devez payer 2000
+le total à payer est 4000FCFA
+Le montant est manquant de 1000FCFA

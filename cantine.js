@@ -1,7 +1,7 @@
 let client="Awa";
-let code_plat=1;
-let quant="3";
-let montant=5000;
+let code_plat=2;
+let quant="2";
+let montant=3000;
 let prix_uni=0;
 let quantt=Number(quant);
 if (code_plat>=1 && code_plat<=3 && quantt>0){
