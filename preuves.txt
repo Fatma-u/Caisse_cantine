@@ -19,3 +19,13 @@ Bonjour!Awa,pour la portion 1 vous devez payer 2000
 Bonjour!Awa,pour la portion 2 vous devez payer 2000
 le total à payer est 4000FCFA
 Le montant est manquant de 1000FCFA
+
+Test3
+Avec les données code_plat=3;montant=4000;quantité=4,nous avons:
+Le plat d'Alloco-Oeuf coûte 1000FCFA
+Bonjour!Awa,pour la portion 1 vous devez payer 1000
+Bonjour!Awa,pour la portion 2 vous devez payer 1000
+Bonjour!Awa,pour la portion 3 vous devez payer 1000
+Bonjour!Awa,pour la portion 4 vous devez payer 1000
+le total à payer est 4000FCFA
+Le montant est manquant de 0FCFA
